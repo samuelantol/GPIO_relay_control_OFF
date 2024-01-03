@@ -1,5 +1,5 @@
 {
-    "name": "GPIO relay control ON",
+    "name": "GPIO relay control ON 5",
     "author": "Samuel Antol",
     "desc": "GPIO relay control that turns on pin 26",
     "repository": "https://github.com/samuelchovanec/GPIO_relay_controll_ON",
