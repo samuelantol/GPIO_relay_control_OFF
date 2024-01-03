@@ -1,2 +1,2 @@
-# GPIO_relay_control_ON
-This info-beamer package is designed to manage pin 4, enabling it repeatedly for a short period of time. Then disabling it again. Initially conceived to regulate a relay module, it facilitates the scheduled activation of electrical appliances.
+# GPIO_relay_control_OFF
+This info-beamer package is designed to manage pin 4, disabling it repeatedly every 5 seconds. Initially conceived to regulate a relay module, it facilitates the scheduled activation of electrical appliances.
