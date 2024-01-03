@@ -1,6 +1,5 @@
 #!/usr/bin/python2.7
 from hosted import device
 import time
-device.gpio.setup_pin(4, direction="out")
-device.gpio.set_pin_value(4,  high=True)
+device.gpio.set_pin_value(4,  high=False)
 time.sleep(5)
